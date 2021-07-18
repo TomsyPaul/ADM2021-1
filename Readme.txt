@@ -1,4 +1,6 @@
-Sample Repository for demonstration of Git
+Dear Students,
+
+This is a sample Repository for demonstration of Git
 
 a)Form groups of two or three
 b)Fork the repository to your account
