@@ -14,3 +14,5 @@ At the end, all of you should have
   2. Merged one PR
   3. Your name stored in Developers.txt
 If there are merge conflicts, resolve them, so that nobody's details are lost.
+
+Wish you a great gitting..!!
