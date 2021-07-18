@@ -1,6 +1,6 @@
-Sl.No.			Name				githubUserame
-******			****				*************
- 0.			Tomsy Paul			tomsypaul
+Sl.No.			Name				githubUserame     e-mail
+******			****				*************     ******
+ 0.			Tomsy Paul			tomsypaul         tomsy@rit.ac.in
  1.
  2.			
  3.
@@ -8,7 +8,7 @@ Sl.No.			Name				githubUserame
  5.
  6.
  7.
- 8.			Aneeta Reji			AneetaReji
+ 8.			
  9.
 10.
 11.
